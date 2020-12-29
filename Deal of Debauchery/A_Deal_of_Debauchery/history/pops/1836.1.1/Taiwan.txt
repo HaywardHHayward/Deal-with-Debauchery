@@ -1,0 +1,186 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6825
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 15357
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1280
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 153
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1433
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 316093
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 199
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 16252
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 1354
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 162
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 1516
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7203
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16205
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1350
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 162
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1512
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 333557
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 210
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 17150
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 1429
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 171
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = hindu
+		size= 1601
+	}
+
+}

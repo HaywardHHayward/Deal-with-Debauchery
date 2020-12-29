@@ -1,0 +1,435 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 526
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 349
+	}
+
+}
+2239 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 473
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7727
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 339
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 411
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5103
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 548
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 337
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4854
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3141
+	}
+
+}

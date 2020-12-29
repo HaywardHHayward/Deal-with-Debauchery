@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=HON
+add_core=YOK
+trade_goods = iron
+life_rating = 35
+terrain = plains
+colonial=2

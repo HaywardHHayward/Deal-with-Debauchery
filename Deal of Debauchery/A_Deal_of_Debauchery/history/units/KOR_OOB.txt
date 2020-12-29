@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+CHL = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=MAG
+trade_goods = fruit
+life_rating = 40
+terrain = farmlands

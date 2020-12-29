@@ -1,0 +1,214 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 867
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1249
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 194
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 462
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 462
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 23
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 21964
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 691
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 4618
+	}
+
+}

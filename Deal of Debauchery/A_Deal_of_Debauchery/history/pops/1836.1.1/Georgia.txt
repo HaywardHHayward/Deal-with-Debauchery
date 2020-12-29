@@ -1,0 +1,700 @@
+1090 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 549
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 34212
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 1092
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 53
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 15419
+	}
+
+}
+1091 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 11609
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 479
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 5176
+	}
+
+}
+1092 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 581
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1370
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 18517
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 279
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 2687
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 39
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 6467
+	}
+
+}
+1093 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 5428
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 268
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 2902
+	}
+
+}
+1094 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 345
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 16561
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 685
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 33
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 7399
+	}
+
+}
+1095 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 222
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 10677
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 447
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 4931
+	}
+
+}
+1096 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 12294
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 513
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 19
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 5615
+	}
+
+}

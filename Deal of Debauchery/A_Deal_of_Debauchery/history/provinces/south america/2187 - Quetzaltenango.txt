@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=HON
+add_core=KIC
+trade_goods = iron
+life_rating = 30
+terrain = jungle
+colonial=2

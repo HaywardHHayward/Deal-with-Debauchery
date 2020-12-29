@@ -1,0 +1,9 @@
+owner=ASM
+controller=ASM
+add_core=ASM
+add_core=HMI
+add_core=TIB
+add_core=UTS
+trade_goods = grain
+life_rating = 32
+terrain = hills

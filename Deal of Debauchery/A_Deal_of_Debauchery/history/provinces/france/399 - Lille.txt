@@ -1,0 +1,15 @@
+owner=FRA
+controller=FRA
+add_core=BEL
+add_core=HAT
+add_core=WLL
+trade_goods = iron
+life_rating = 30
+terrain = farmlands
+fort = 1
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

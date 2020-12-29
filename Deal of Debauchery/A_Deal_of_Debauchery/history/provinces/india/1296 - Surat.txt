@@ -1,0 +1,8 @@
+owner=JLV
+controller=JLV
+add_core=GUJ
+add_core=HND
+add_core=JLV
+trade_goods = grain
+life_rating = 32
+terrain = plains

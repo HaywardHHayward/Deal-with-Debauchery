@@ -1,0 +1,400 @@
+1098 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 158
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 15205
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 702
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 33
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 8530
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 10418
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 481
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 23
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 5845
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 5817
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 3412
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 7471
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 353
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 4382
+	}
+
+}

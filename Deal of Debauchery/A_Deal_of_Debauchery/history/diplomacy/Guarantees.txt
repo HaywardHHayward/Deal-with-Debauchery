@@ -1,0 +1,40 @@
+guarantee=
+{
+	first="FRA"
+	second="X06"
+	start_date="1762.7.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="HAN"
+	second="NET"
+	start_date="1777.5.20"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="VIJ"
+	second="KCX"
+	start_date="1774.2.5"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ASM"
+	second="CXI"
+	start_date="1819.5.10"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ASM"
+	second="CSH"
+	start_date="1820.11.6"
+	end_date="1936.1.1"
+}
+

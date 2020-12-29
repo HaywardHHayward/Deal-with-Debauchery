@@ -1,0 +1,586 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 85
+	military_access = yes
+	influence_value = 58
+	level = 5
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 236
+	influence_value = 46
+	level = 4
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -6
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = -58
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 20
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -113
+	level = 2
+}
+LSK = {
+	value = -6
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -1
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = -32
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = -91
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = -1
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = -2
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Carlos II"
+	date="1799.5.20"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Odón de Andrade"
+	date="1800.4.24"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Diego de Ayala"
+	date="1815.9.3"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Bertrán Gómez"
+	date="1820.3.26"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2159
+	regiment = {
+		name="1st Hermosillo Infantry"
+		type=infantry
+		home=2137
+	}
+	regiment = {
+		name="1st Rosarito Infantry"
+		type=infantry
+		home=2139
+	}
+	regiment = {
+		name="1st San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+	regiment = {
+		name="1st Puebla Artillery"
+		type=artillery
+		home=2176
+	}
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="1st Tucson Artillery"
+		type=artillery
+		home=102
+	}
+}
+
+army = {
+	name="12th Army"
+	location=87
+	regiment = {
+		name="2nd Hermosillo Infantry"
+		type=infantry
+		home=2137
+	}
+	regiment = {
+		name="1st Paso del Norte Infantry"
+		type=infantry
+		home=2143
+	}
+	regiment = {
+		name="1st Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+	regiment = {
+		name="1st Los Angeles Artillery"
+		type=artillery
+		home=89
+	}
+	regiment = {
+		name="3rd Hermosillo Infantry"
+		type=infantry
+		home=2137
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3004
+	ship = {
+		name="1st Tepic Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tepic Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Guaymas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2150
+	ship = {
+		name="1st Collataro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Guaymas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nogales Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Guaymas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3003
+	ship = {
+		name="1st Guaymas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Matamoros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Loreto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tepic Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Collataro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Culiacán Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tepic Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tepic Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rosarito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Los Albañiles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Loreto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Loreto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rosarito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rosarito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Culiacán Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Guaymas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hermosillo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Collataro Clipper Transport"
+		type=clipper_transport
+	}
+}
+

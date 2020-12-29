@@ -1,0 +1,11 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=EJZ
+add_core=MCK
+add_core=SOL
+trade_goods = coal
+life_rating = 32
+terrain = hills
+colonial=2
+fort = 1

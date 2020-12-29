@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=PER
+add_core=TAB
+add_core=X02
+trade_goods = wool
+life_rating = 35
+terrain = mountain

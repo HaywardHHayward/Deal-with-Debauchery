@@ -1,0 +1,7 @@
+owner=JLV
+controller=JLV
+add_core=PAN
+add_core=RAJ
+trade_goods = wool
+life_rating = 32
+terrain = plains

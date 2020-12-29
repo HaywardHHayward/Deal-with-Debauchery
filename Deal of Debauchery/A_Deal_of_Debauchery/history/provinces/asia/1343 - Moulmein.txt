@@ -1,0 +1,9 @@
+owner=GER
+controller=GER
+add_core=BUR
+add_core=IDO
+add_core=PEG
+trade_goods = grain
+life_rating = 30
+terrain = hills
+colonial=2

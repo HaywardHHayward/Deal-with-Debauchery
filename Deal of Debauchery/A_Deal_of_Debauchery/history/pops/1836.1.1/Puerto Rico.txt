@@ -1,0 +1,163 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 19183
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 813
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 203
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 20346
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 20716
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 260
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 2498
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 765
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 2918
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 547
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 146
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 613
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 15095
+	}
+
+}

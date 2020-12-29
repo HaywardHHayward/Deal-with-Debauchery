@@ -1,0 +1,922 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -74
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -27
+	level = 2
+}
+GER = {
+	value = 10
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = -15
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 20
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -94
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = -35
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Jorge Rebelo"
+	date="1782.10.24"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Vicente de Sequeira"
+	date="1804.8.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Rui de Oliveira"
+	date="1813.1.7"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Octávio da Cunha"
+	date="1817.6.24"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Filipe de Penamacor"
+	date="1819.8.1"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+leader = {
+	name="Garcia Pereira"
+	date="1789.11.9"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Estevão de Vasconcelos"
+	date="1791.12.5"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Teodósio de Marialva"
+	date="1794.1.4"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="Free Company"
+	location=2135
+	regiment = {
+		name="1st Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="4th Oporto Infantry"
+		type=infantry
+		home=518
+	}
+}
+
+navy = {
+	name="Armada de Aveiro"
+	location=522
+	ship = {
+		name="1st Portuguese Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Portuguese Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Portuguese Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canary Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canary Islands Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=2746
+	ship = {
+		name="1st Canary Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Madeira Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Armada de Madeira"
+	location=2745
+	ship = {
+		name="1st Madeira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Portuguese Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Portuguese Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Armada de Cape Bojador"
+	location=2135
+	ship = {
+		name="1st Madeira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madeira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jilolo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2257
+	regiment = {
+		name="1st Quibdó Infantry"
+		type=infantry
+		home=2253
+	}
+	regiment = {
+		name="1st Esmereldas Infantry"
+		type=infantry
+		home=2281
+	}
+	regiment = {
+		name="2nd Quibdó Infantry"
+		type=infantry
+		home=2253
+	}
+	regiment = {
+		name="1st Cali Artillery"
+		type=artillery
+		home=2256
+	}
+	regiment = {
+		name="1st Pasto Artillery"
+		type=artillery
+		home=2259
+	}
+	regiment = {
+		name="2nd Pasto Artillery"
+		type=artillery
+		home=2259
+	}
+	regiment = {
+		name="1st Madeira Infantry"
+		type=infantry
+		home=2135
+	}
+	regiment = {
+		name="1st Casanare Artillery"
+		type=artillery
+		home=2262
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2255
+	regiment = {
+		name="1st Yaviza Infantry"
+		type=infantry
+		home=2208
+	}
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="3rd Quibdó Infantry"
+		type=infantry
+		home=2253
+	}
+	regiment = {
+		name="1st Buenaventura Artillery"
+		type=artillery
+		home=2258
+	}
+	regiment = {
+		name="2nd Cali Artillery"
+		type=artillery
+		home=2256
+	}
+	regiment = {
+		name="3rd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="1st Popayán Artillery"
+		type=artillery
+		home=2257
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2281
+	regiment = {
+		name="1st Cali Infantry"
+		type=infantry
+		home=2256
+	}
+	regiment = {
+		name="1st Maracaibo Infantry"
+		type=infantry
+		home=2270
+	}
+	regiment = {
+		name="1st Pasto Infantry"
+		type=infantry
+		home=2259
+	}
+	regiment = {
+		name="2nd Cali Infantry"
+		type=infantry
+		home=2256
+	}
+	regiment = {
+		name="1st Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+	regiment = {
+		name="3rd Pasto Artillery"
+		type=artillery
+		home=2259
+	}
+	regiment = {
+		name="2nd Buenaventura Artillery"
+		type=artillery
+		home=2258
+	}
+	regiment = {
+		name="3rd Cali Infantry"
+		type=infantry
+		home=2256
+	}
+	regiment = {
+		name="1st Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="2nd Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=2970
+	ship = {
+		name="1st Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Portuguese Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3001
+	ship = {
+		name="3rd Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quibdó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Quibdó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Quibdó Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2971
+	ship = {
+		name="2nd Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Penonomé Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st David Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Barranquilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Penonomé Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Guayaquil Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Portuguese Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2247
+	regiment = {
+		name="2nd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="1st Yuncos Infantry"
+		type=infantry
+		home=2288
+	}
+	regiment = {
+		name="2nd Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st San José del Guaviare Artillery"
+		type=artillery
+		home=2260
+	}
+	regiment = {
+		name="3rd Buenaventura Artillery"
+		type=artillery
+		home=2258
+	}
+	regiment = {
+		name="1st Vila Real Artillery"
+		type=artillery
+		home=519
+	}
+	regiment = {
+		name="1st Vila Real Infantry"
+		type=infantry
+		home=519
+	}
+	regiment = {
+		name="2nd Casanare Artillery"
+		type=artillery
+		home=2262
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2254
+	ship = {
+		name="1st Buenaventura Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quibdó Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cartagena de Indias Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cartagena de Indias Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coro Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2258
+	ship = {
+		name="3rd Portuguese Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Portuguese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Penonomé Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st David Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barranquilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Portuguese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Penonomé Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd David Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Coro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd David Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+}
+

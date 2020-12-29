@@ -1,0 +1,186 @@
+2241 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2560
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1240
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 453
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 218
+	}
+
+}

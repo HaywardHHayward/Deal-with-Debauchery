@@ -1,0 +1,12 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=CSH
+add_core=JIN
+add_core=KHA
+add_core=MCK
+add_core=RUS
+add_core=YAN
+trade_goods = tea
+life_rating = 32
+terrain = plains

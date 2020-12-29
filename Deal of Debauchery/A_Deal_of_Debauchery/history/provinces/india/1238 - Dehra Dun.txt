@@ -1,0 +1,8 @@
+owner=DTI
+controller=DTI
+add_core=DTI
+add_core=HND
+add_core=KMN
+trade_goods = tea
+life_rating = 32
+terrain = mountain

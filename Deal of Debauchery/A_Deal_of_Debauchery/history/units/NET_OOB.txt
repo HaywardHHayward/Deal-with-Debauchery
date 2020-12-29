@@ -1,0 +1,451 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -6
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = -13
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = -6
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = -10
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = -13
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -93
+	level = 2
+}
+GER = {
+	value = -58
+	level = 2
+}
+GRE = {
+	value = -7
+	level = 2
+}
+HAN = {
+	value = -66
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -13
+	level = 2
+}
+LSK = {
+	value = -14
+	level = 2
+}
+LXA = {
+	value = -9
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 23
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = -3
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = -13
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -13
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -41
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = -13
+	level = 2
+}
+RUS = {
+	value = 23
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = -108
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = -13
+	level = 2
+}
+X00 = {
+	value = -4
+	level = 2
+}
+X01 = {
+	value = -13
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = -13
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = -13
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hans Van der Does"
+	date="1796.8.30"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Daniel Coehoorn"
+	date="1799.10.27"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Simon Van der Werff"
+	date="1804.5.5"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="West-Indiëvloot"
+	location=376
+	ship = {
+		name="1st Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Guadeloupe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amsterdam Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Staatse Vloot"
+	location=3178
+	ship = {
+		name="1st Utrecht Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Vloot van Palestinian Coast"
+	location=2724
+	ship = {
+		name="2nd Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Emden Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2769
+	ship = {
+		name="1st Ponape Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amsterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guadeloupe Man'o'war"
+		type=manowar
+	}
+}
+

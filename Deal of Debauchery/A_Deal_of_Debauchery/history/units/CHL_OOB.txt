@@ -1,0 +1,878 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 111
+	influence_value = 15
+	level = 3
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = -25
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -16
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -114
+	level = 2
+}
+GER = {
+	value = -15
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 46
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 20
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -205
+	level = 2
+}
+LSK = {
+	value = -6
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 172
+	influence_value = 30
+	level = 4
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = -13
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -22
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 153
+	influence_value = 25
+	level = 3
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = -88
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = -1
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = -92
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = -2
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Esteban de Velasco"
+	date="1799.5.21"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Valeriano Colón"
+	date="1804.12.5"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Felipe de Toledo"
+	date="1813.11.30"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Valeriano Ponce de León"
+	date="1814.7.11"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Fadrique Pimentel"
+	date="1816.4.1"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="15th Army"
+	location=2420
+	regiment = {
+		name="1st Paraná Infantry"
+		type=infantry
+		home=2360
+	}
+	regiment = {
+		name="1st Mar del Plata Infantry"
+		type=infantry
+		home=2352
+	}
+	regiment = {
+		name="1st Viedma Infantry"
+		type=infantry
+		home=2392
+	}
+	regiment = {
+		name="1st Azul Artillery"
+		type=artillery
+		home=2350
+	}
+	regiment = {
+		name="1st Curuzú Cuatiá Artillery"
+		type=artillery
+		home=2357
+	}
+	regiment = {
+		name="1st Rosario Infantry"
+		type=infantry
+		home=2363
+	}
+	regiment = {
+		name="2nd Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2345
+	regiment = {
+		name="1st San Luis Infantry"
+		type=infantry
+		home=2383
+	}
+	regiment = {
+		name="1st Colón Infantry"
+		type=infantry
+		home=2359
+	}
+	regiment = {
+		name="1st Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Trenque Lauquen Infantry"
+		type=infantry
+		home=2353
+	}
+	regiment = {
+		name="1st Corrientes Artillery"
+		type=artillery
+		home=2356
+	}
+	regiment = {
+		name="1st Lima Artillery"
+		type=artillery
+		home=2295
+	}
+	regiment = {
+		name="1st Curacó Artillery"
+		type=artillery
+		home=2395
+	}
+	regiment = {
+		name="2nd Encarnación Artillery"
+		type=artillery
+		home=2341
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2375
+	regiment = {
+		name="2nd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Lima Infantry"
+		type=infantry
+		home=2295
+	}
+	regiment = {
+		name="3rd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st Tacuarembó Artillery"
+		type=artillery
+		home=2346
+	}
+	regiment = {
+		name="1st Sancti Spiritu Artillery"
+		type=artillery
+		home=2361
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Santiago Artillery"
+		type=artillery
+		home=2324
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2296
+	regiment = {
+		name="1st Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Chuquisaca Infantry"
+		type=infantry
+		home=2313
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="1st Encarnación Artillery"
+		type=artillery
+		home=2341
+	}
+	regiment = {
+		name="1st Santo Tomás Infantry"
+		type=infantry
+		home=2358
+	}
+	regiment = {
+		name="1st Posadas Artillery"
+		type=artillery
+		home=2554
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2333
+	regiment = {
+		name="1st Pilar Infantry"
+		type=infantry
+		home=2340
+	}
+	regiment = {
+		name="1st Santa Maria Infantry"
+		type=infantry
+		home=2466
+	}
+	regiment = {
+		name="2nd Santa Maria Infantry"
+		type=infantry
+		home=2466
+	}
+	regiment = {
+		name="1st Mercedes Infantry"
+		type=infantry
+		home=2384
+	}
+	regiment = {
+		name="1st Santa Maria Artillery"
+		type=artillery
+		home=2466
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Formosa Artillery"
+		type=artillery
+		home=2366
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2987
+	ship = {
+		name="1st Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Calama Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2344
+	ship = {
+		name="1st Carmen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Paraná Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Copiapó Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Copiapó Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Paysandú Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Carmen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Paysandú Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Paraná Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2990
+	ship = {
+		name="1st Calama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Orleans Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Paraná Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Paysandú Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cauquenes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Paysandú Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quebec City Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=2988
+	ship = {
+		name="1st Valparaíso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Carmen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Valparaíso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lima Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2308
+	ship = {
+		name="1st La Plata Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Deseado Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pelotas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Viedma Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paraná Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mar del Plata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Montevideo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Melo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Paraná Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Porto Alegre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Montevideo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mar del Plata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Viedma Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Viedma Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Porto Alegre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Copiapó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Paraná Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cauquenes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2390
+	regiment = {
+		name="1st Renancó Infantry"
+		type=infantry
+		home=2382
+	}
+	regiment = {
+		name="1st San Pedro Infantry"
+		type=infantry
+		home=2342
+	}
+}
+

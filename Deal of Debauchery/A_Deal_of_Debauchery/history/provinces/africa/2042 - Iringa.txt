@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+trade_goods = tobacco
+life_rating = 15
+terrain = mountain
+colonial=2

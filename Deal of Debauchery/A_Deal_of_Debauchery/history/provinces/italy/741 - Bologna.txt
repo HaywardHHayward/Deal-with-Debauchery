@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=ITA
+trade_goods = timber
+life_rating = 35
+terrain = farmlands

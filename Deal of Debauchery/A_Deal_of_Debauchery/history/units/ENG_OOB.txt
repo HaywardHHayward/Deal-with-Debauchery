@@ -1,0 +1,1741 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -105
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 48
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -32
+	level = 2
+}
+GER = {
+	value = 21
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -67
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 40
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 23
+	level = 2
+}
+NET = {
+	value = -6
+	level = 2
+}
+NOR = {
+	value = -30
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = -13
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -76
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 9
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+TDO = {
+	value = 10
+	level = 2
+}
+TLX = {
+	value = 154
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+TOR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="William IV Henry Neville"
+	date="1806.9.2"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Henry Anson"
+	date="1795.8.20"
+	type=sea
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Jacob Cromwell"
+	date="1796.3.18"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Sydney Rodney"
+	date="1802.4.2"
+	type=sea
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Joseph Burgoyne"
+	date="1808.11.19"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Frederick William Northumberland"
+	date="1814.7.16"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Octavius Wolfe"
+	date="1788.1.2"
+	type=sea
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Frederick William Braddock"
+	date="1818.7.31"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Maximilian Clive"
+	date="1815.8.14"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Guy Somerset"
+	date="1818.8.2"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Henry Uxbridge"
+	date="1818.8.5"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Frederick William Bedford"
+	date="1809.10.2"
+	type=sea
+	personality="intuitive"
+	background="bootlicker"
+}
+
+leader = {
+	name="Octavius Byron"
+	date="1815.2.2"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Hugh Button"
+	date="1819.5.23"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Independent Army"
+	location=264
+	regiment = {
+		name="1st Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="2nd Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="3rd Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="4th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="5th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="6th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="7th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="8th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="9th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1999
+	regiment = {
+		name="1st Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="3rd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+}
+
+army = {
+	name="Flemish Company"
+	location=294
+	regiment = {
+		name="2nd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1999
+	regiment = {
+		name="1st Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="1st Canterbury Artillery"
+		type=artillery
+		home=301
+	}
+}
+
+army = {
+	name="48th Army"
+	location=304
+	regiment = {
+		name="1st Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="1st Leeds Artillery"
+		type=artillery
+		home=282
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=302
+	regiment = {
+		name="1st Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="2nd Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="3rd Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="7th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+}
+
+army = {
+	name="Royal Army"
+	location=278
+	regiment = {
+		name="1st Lincoln Artillery"
+		type=artillery
+		home=290
+	}
+	regiment = {
+		name="1st Liverpool Artillery"
+		type=artillery
+		home=277
+	}
+	regiment = {
+		name="2nd Liverpool Artillery"
+		type=artillery
+		home=277
+	}
+}
+
+navy = {
+	name="White Squadron"
+	location=2737
+	ship = {
+		name="2nd Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Edinburgh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th British Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Ireland"
+	location=294
+	regiment = {
+		name="2nd Hull Artillery"
+		type=artillery
+		home=281
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=302
+	regiment = {
+		name="1st Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="1st Cork Artillery"
+		type=artillery
+		home=260
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=801
+	regiment = {
+		name="4th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="5th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="6th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="8th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2811
+	ship = {
+		name="1st British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hull Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=3181
+	ship = {
+		name="2nd Isle of Man Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Donegal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canterbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aru Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Lucia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Martin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Isle of Man Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ipswich Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd British Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=277
+	regiment = {
+		name="3rd Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="1st Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+}
+
+navy = {
+	name="Blue Squadron"
+	location=2812
+	ship = {
+		name="3rd Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chelmsford Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2722
+	ship = {
+		name="2nd Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Armagh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stirling Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th British Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th British Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Scotland"
+	location=262
+	regiment = {
+		name="2nd Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2737
+	ship = {
+		name="2nd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dublin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aberdeen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aberdeen Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=271
+	ship = {
+		name="3rd Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dublin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Liverpool Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st British Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Liverpool Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1463
+	ship = {
+		name="1st Saint Vincent Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Saint Vincent Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2268
+	ship = {
+		name="1st Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Saint Martin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caracas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2268
+	regiment = {
+		name="1st Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="1st Caracas Artillery"
+		type=artillery
+		home=2264
+	}
+	regiment = {
+		name="3rd Caracas Infantry"
+		type=infantry
+		home=2264
+	}
+	regiment = {
+		name="1st Dublin Artillery"
+		type=artillery
+		home=263
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2240
+	regiment = {
+		name="1st Caracas Infantry"
+		type=infantry
+		home=2264
+	}
+	regiment = {
+		name="2nd Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="2nd Caracas Infantry"
+		type=infantry
+		home=2264
+	}
+	regiment = {
+		name="1st London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st Guanare Artillery"
+		type=artillery
+		home=2265
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2971
+	ship = {
+		name="1st Caracas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trinidad Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2268
+	ship = {
+		name="1st Tobago Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tobago Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2969
+	ship = {
+		name="1st San Felipe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trinidad Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Paramaribo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Trinidad Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2200
+	regiment = {
+		name="1st Liberia Infantry"
+		type=infantry
+		home=2202
+	}
+	regiment = {
+		name="1st Liberia Cavalry"
+		type=cavalry
+		home=2202
+	}
+	regiment = {
+		name="2nd London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st Limón Infantry"
+		type=infantry
+		home=2203
+	}
+	regiment = {
+		name="1st Liverpool Cavalry"
+		type=cavalry
+		home=277
+	}
+	regiment = {
+		name="1st Managua Cavalry"
+		type=cavalry
+		home=2197
+	}
+	regiment = {
+		name="1st Manchester Artillery"
+		type=artillery
+		home=278
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2970
+	ship = {
+		name="1st Rivas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rivas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Limón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Limón Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2970
+	ship = {
+		name="1st San José Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rivas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Limón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Liberia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2203
+	ship = {
+		name="1st Liberia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Liberia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Liberia Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2189
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Quetzaltenango Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st Quetzaltenango Artillery"
+		type=artillery
+		home=2187
+	}
+	regiment = {
+		name="1st Ipswich Artillery"
+		type=artillery
+		home=292
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2183
+	regiment = {
+		name="2nd Quetzaltenango Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="3rd Quetzaltenango Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="1st San Salvador Infantry"
+		type=infantry
+		home=2191
+	}
+	regiment = {
+		name="1st Quetzaltenango Cavalry"
+		type=cavalry
+		home=2187
+	}
+	regiment = {
+		name="2nd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="2nd Quetzaltenango Artillery"
+		type=artillery
+		home=2187
+	}
+	regiment = {
+		name="1st Plymouth Cavalry"
+		type=cavalry
+		home=299
+	}
+	regiment = {
+		name="1st San Miguel Artillery"
+		type=artillery
+		home=2192
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2173
+	regiment = {
+		name="4th Quetzaltenango Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="2nd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Sayaxché Infantry"
+		type=infantry
+		home=2189
+	}
+	regiment = {
+		name="3rd London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="3rd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="1st Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2970
+	ship = {
+		name="1st Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Pedro Sula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd New Orleans Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Barrios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Guatemala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th La Ceiba Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2965
+	ship = {
+		name="4th La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Barrios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Pedro Sula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Puerto Barrios Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2964
+	ship = {
+		name="6th La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd San Pedro Sula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd New Orleans Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Baton Rouge Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2965
+	ship = {
+		name="1st San Pedro Sula Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Puerto Barrios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Puerto Barrios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Puerto Barrios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Puerto Barrios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dampier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dampier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Guatemala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Barrios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quetzaltenango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Puerto Barrios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Esperance Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Pedro Sula Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Comayagua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quetzaltenango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Puerto Barrios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guatemala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Ceiba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Ceiba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Villahermosa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Villahermosa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Puerto Barrios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mérida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Puerto Barrios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Miguel Frigate"
+		type=frigate
+	}
+}
+

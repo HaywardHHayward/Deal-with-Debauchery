@@ -1,0 +1,53 @@
+2131 = {
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 45
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 12
+	}
+
+}

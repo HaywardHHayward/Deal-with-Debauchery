@@ -1,0 +1,20 @@
+owner=X06
+controller=GER
+add_core=GER
+add_core=POM
+add_core=X06
+trade_goods = fish
+life_rating = 40
+terrain = plains
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

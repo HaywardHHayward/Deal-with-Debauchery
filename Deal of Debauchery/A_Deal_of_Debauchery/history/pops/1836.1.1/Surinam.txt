@@ -1,0 +1,200 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 407
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 327
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6458
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 281
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 778
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3788
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1147
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 577
+	}
+
+}

@@ -1,0 +1,142 @@
+1876 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 15095
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 1089
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = protestant
+		size= 347
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = protestant
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = protestant
+		size= 146
+	}
+
+}

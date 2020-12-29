@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=HON
+add_core=XAL
+trade_goods = timber
+life_rating = 35
+terrain = mountain
+colonial=2

@@ -1,0 +1,21 @@
+owner=EGY
+controller=EGY
+add_core=CND
+add_core=TUR
+trade_goods = fish
+life_rating = 35
+terrain = mountain
+naval_base = 1
+fort = 1
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

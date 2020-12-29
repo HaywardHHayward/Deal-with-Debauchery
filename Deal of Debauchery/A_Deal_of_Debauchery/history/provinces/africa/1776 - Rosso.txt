@@ -1,0 +1,7 @@
+owner=EGY
+controller=EGY
+add_core=FUL
+trade_goods = wool
+life_rating = 15
+terrain = plains
+naval_base = 1

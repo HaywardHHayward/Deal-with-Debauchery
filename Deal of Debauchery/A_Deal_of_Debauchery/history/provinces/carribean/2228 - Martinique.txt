@@ -1,0 +1,6 @@
+owner=GER
+controller=REB
+trade_goods = cotton
+life_rating = 35
+terrain = hills
+colonial=2

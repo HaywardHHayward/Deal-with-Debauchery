@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=OJI
+add_core=QUE
+trade_goods = grain
+life_rating = 35
+terrain = plains
+colonial=2

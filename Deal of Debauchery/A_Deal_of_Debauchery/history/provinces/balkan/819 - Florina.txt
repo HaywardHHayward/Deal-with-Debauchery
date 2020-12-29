@@ -1,0 +1,13 @@
+owner=BUL
+controller=BUL
+add_core=BUL
+add_core=GRE
+trade_goods = coal
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

@@ -1,0 +1,9 @@
+owner=PTT
+controller=VIJ
+add_core=HND
+add_core=ORI
+add_core=PTT
+trade_goods = grain
+life_rating = 32
+terrain = plains
+naval_base = 1

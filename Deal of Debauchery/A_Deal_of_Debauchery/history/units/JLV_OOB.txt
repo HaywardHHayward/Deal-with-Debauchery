@@ -1,0 +1,735 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = -92
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -11
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -15
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRJ = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = -100
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLB = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 23
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = -5
+	level = 2
+}
+OTM = {
+	value = -13
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PTT = {
+	value = 18
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 22
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 187
+	influence_value = 34
+	level = 4
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Panchanji  Valas"
+	date="1804.12.13"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ghodaji  Savji"
+	date="1812.9.26"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kumar  Vaghela"
+	date="1812.9.27"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Shri  Soomrah"
+	date="1813.4.18"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1292
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Rajkot Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Gorkhalis"
+	location=1598
+	regiment = {
+		name="1st Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="13th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+}
+
+army = {
+	name="Gosains"
+	location=1598
+	regiment = {
+		name="2nd Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="14th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+}
+
+army = {
+	name="Purbiyas"
+	location=1226
+	regiment = {
+		name="3rd Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="4th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="15th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1598
+	regiment = {
+		name="5th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="6th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="7th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="8th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="2nd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="3rd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="4th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="1st Surat Artillery"
+		type=artillery
+		home=1296
+	}
+	regiment = {
+		name="1st Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1598
+	regiment = {
+		name="1st Indore Irregulars"
+		type=irregular
+		home=1271
+	}
+	regiment = {
+		name="9th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="5th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="6th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="7th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="8th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="17th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1598
+	regiment = {
+		name="1st Mandvi Irregulars"
+		type=irregular
+		home=1293
+	}
+	regiment = {
+		name="10th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="9th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="10th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="11th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="16th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2790
+	ship = {
+		name="2nd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Rajkot Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1235
+	regiment = {
+		name="11th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="12th Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1598
+	regiment = {
+		name="12th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="13th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="14th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="15th Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+

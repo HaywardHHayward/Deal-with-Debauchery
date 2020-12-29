@@ -1,0 +1,8 @@
+owner=TDO
+controller=ENG
+add_core=PHI
+add_core=TDO
+trade_goods = iron
+life_rating = 30
+terrain = jungle
+naval_base = 2

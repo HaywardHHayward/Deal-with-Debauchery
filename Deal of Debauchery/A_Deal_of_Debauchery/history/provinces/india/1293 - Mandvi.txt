@@ -1,0 +1,7 @@
+owner=JLV
+controller=JLV
+add_core=HND
+add_core=JLV
+trade_goods = cotton
+life_rating = 32
+terrain = plains

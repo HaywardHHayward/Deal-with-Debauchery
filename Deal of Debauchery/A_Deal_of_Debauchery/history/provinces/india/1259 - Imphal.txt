@@ -1,0 +1,8 @@
+owner=AVA
+controller=ASM
+add_core=AVA
+add_core=HND
+add_core=MLB
+trade_goods = tea
+life_rating = 32
+terrain = hills

@@ -1,0 +1,16 @@
+name = "Manchurian-Huai Nationalist War"
+
+1820.8.13 = {
+	add_attacker = MCK
+	add_attacker = OTM
+	add_defender = HUA
+	add_defender = CSH
+	add_defender = TDO
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = MCK
+		receiver = HUA
+		state_province_id = 1518
+	}
+}

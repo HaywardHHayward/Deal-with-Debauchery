@@ -1,0 +1,304 @@
+908 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 201
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4647
+	}
+
+}
+909 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3508
+	}
+
+}
+910 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1488
+	}
+
+}
+911 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 265
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 6086
+	}
+
+}
+922 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2729
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size= 1656
+	}
+
+}

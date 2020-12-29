@@ -1,0 +1,9 @@
+owner=ENG
+controller=ENG
+add_core=AZT
+add_core=HON
+add_core=OTO
+trade_goods = fruit
+life_rating = 35
+terrain = mountain
+colonial=2

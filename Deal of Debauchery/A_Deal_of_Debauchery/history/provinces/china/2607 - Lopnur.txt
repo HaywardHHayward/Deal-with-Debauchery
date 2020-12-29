@@ -1,0 +1,10 @@
+owner=RUS
+controller=OIR
+add_core=HMI
+add_core=KHA
+add_core=MGL
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32
+terrain = desert
+colonial=2

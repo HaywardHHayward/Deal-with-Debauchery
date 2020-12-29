@@ -1,0 +1,533 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -8
+	level = 2
+}
+GER = {
+	value = 101
+	military_access = yes
+	influence_value = 12
+	level = 3
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -13
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -11
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = -13
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Georgi Marinov"
+	date="1791.9.12"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Bogomil Strahil"
+	date="1793.9.7"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Michael VI Shishman"
+	date="1820.4.5"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Samuil Peyachevich"
+	date="1815.2.27"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=823
+	ship = {
+		name="1st Xanthe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Xanthe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Xanthe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Varna Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=812
+	regiment = {
+		name="1st Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Tulcea Infantry"
+		type=infantry
+		home=675
+	}
+	regiment = {
+		name="1st Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="2nd Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="2nd Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Vidin Artillery"
+		type=artillery
+		home=810
+	}
+	regiment = {
+		name="1st Plovdiv Artillery"
+		type=artillery
+		home=815
+	}
+	regiment = {
+		name="2nd Vidin Artillery"
+		type=artillery
+		home=810
+	}
+	regiment = {
+		name="1st Petrich Artillery"
+		type=artillery
+		home=808
+	}
+	regiment = {
+		name="1st Sofia Infantry"
+		type=infantry
+		home=809
+	}
+}
+
+army = {
+	name="1st Army"
+	location=822
+	regiment = {
+		name="3rd Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="4th Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="1st Constanta Infantry"
+		type=infantry
+		home=674
+	}
+	regiment = {
+		name="1st Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="5th Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="1st Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="3rd Vidin Artillery"
+		type=artillery
+		home=810
+	}
+	regiment = {
+		name="1st Salonika Artillery"
+		type=artillery
+		home=805
+	}
+	regiment = {
+		name="2nd Sofia Artillery"
+		type=artillery
+		home=809
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2763
+	ship = {
+		name="1st Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Polygyros Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=823
+	ship = {
+		name="1st Dedeagatch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Varna Frigate"
+		type=frigate
+	}
+}
+

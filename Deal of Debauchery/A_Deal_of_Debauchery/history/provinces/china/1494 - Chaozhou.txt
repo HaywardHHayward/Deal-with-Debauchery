@@ -1,0 +1,10 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MIN
+add_core=YUE
+trade_goods = silk
+life_rating = 32
+terrain = hills
+colonial=2
+naval_base = 1

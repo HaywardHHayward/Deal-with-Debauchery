@@ -1,0 +1,2862 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 16
+	level = 2
+}
+ARN = {
+	value = 190
+	military_access = yes
+	influence_value = 85
+	level = 5
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 12
+	level = 2
+}
+CCT = {
+	value = -4
+	level = 2
+}
+CGS = {
+	value = 52
+	level = 2
+}
+CHL = {
+	value = -4
+	level = 2
+}
+CLM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CND = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CXI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -86
+	level = 2
+}
+DOM = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+DTI = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -95
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+HDA = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+HON = {
+	value = -23
+	level = 2
+}
+HUA = {
+	value = 52
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JLV = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LSK = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LXA = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -5
+	level = 2
+}
+MJP = {
+	value = 16
+	level = 2
+}
+MLI = {
+	value = -15
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRI = {
+	value = 23
+	level = 2
+}
+NET = {
+	value = -105
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = -13
+	level = 2
+}
+PAP = {
+	value = 132
+	influence_value = 20
+	level = 3
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+POM = {
+	value = 18
+	level = 2
+}
+POR = {
+	value = -91
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+RUS = {
+	value = -5
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -3
+	level = 2
+}
+SIA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SWA = {
+	value = -51
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 3
+	level = 2
+}
+TDO = {
+	value = -92
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 154
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+VIJ = {
+	value = -91
+	level = 2
+}
+VNZ = {
+	value = 37
+	level = 2
+}
+WHA = {
+	value = 157
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 197
+	military_access = yes
+	influence_value = 86
+	level = 5
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+X07 = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X10 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Henri d'Usson"
+	date="1807.2.19"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Josquin Duquesne"
+	date="1813.2.23"
+	type=land
+	personality="soldierly"
+	background="brownnoser"
+}
+
+leader = {
+	name="Étienne du Bosquet"
+	date="1813.2.23"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Ignace de Rochechouart"
+	date="1813.2.23"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Bernard de Bercy"
+	date="1813.2.23"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Augustin de Rieu"
+	date="1799.5.24"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Armand de Rochechouart"
+	date="1813.2.6"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Louis de La Tour d'Auvergne"
+	date="1819.9.29"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Jean-Philippe de Castaing"
+	date="1819.9.24"
+	type=sea
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jean-Philippe d'Aulnay"
+	date="1819.10.4"
+	type=land
+	personality="chivalrous"
+	background="brownnoser"
+}
+
+leader = {
+	name="Claude de la Bretonnière"
+	date="1819.10.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Jean-Philippe de La Tour d'Auvergne"
+	date="1799.5.22"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Marc de La Ferrandie"
+	date="1819.9.26"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Henri de Saint-Esprit"
+	date="1819.9.24"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hugues de Galard"
+	date="1819.10.2"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Henri de Boissieu"
+	date="1819.10.5"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Joseph de Caumartin"
+	date="1791.9.11"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ignace de Vibien"
+	date="1799.5.20"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Jules de Rochechouart"
+	date="1800.1.3"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Jean de Bercy"
+	date="1806.2.6"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Augustin de Boissieu"
+	date="1819.9.27"
+	type=land
+	personality="intuitive"
+	background="brownnoser"
+}
+
+leader = {
+	name="Clément de Villeneuve"
+	date="1800.1.2"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Xavier d'Ornano"
+	date="1807.9.9"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Benoît de Bonnefoy"
+	date="1819.9.23"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Joseph de Siorac"
+	date="1819.9.26"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Nicolas-Henri de Rieu"
+	date="1819.9.29"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Simon de Luynes"
+	date="1791.9.9"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Nicolas-Henri de Pellefort"
+	date="1799.5.22"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Joachim de Rieu"
+	date="1819.9.25"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ambroise de Bonneuil"
+	date="1820.1.3"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Étienne de Pellefort"
+	date="1820.1.5"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Josquin d'Entraigues"
+	date="1820.1.11"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jean-Philippe de Chevigny"
+	date="1800.7.2"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Augustin d'Aulnay"
+	date="1801.2.20"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ambroise de Saint-Omer"
+	date="1806.11.7"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Jean-Philippe de Rochechouart"
+	date="1806.6.6"
+	type=sea
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Hugues de Crèvecœur"
+	date="1819.8.9"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jean-Jacques des Écures"
+	date="1819.9.25"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+
+#Armies
+navy = {
+	name="Escadre de Méditerranée"
+	location=2990
+	ship = {
+		name="1st Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Channel Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Roche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sandakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nantes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Channel Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vannes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vannes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Caen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Channel Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Roche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sandakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Roche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Channel Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Channel Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brest Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Rochelle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rouen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nantes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Channel Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Channel Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brest Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st St Brieuc Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armée des Alpes"
+	location=418
+	regiment = {
+		name="1st Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="2nd Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="2nd Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Orléans Cavalry"
+		type=cavalry
+		home=438
+	}
+	regiment = {
+		name="1st Angers Artillery"
+		type=artillery
+		home=434
+	}
+	regiment = {
+		name="1st Alençon Artillery"
+		type=artillery
+		home=417
+	}
+}
+
+army = {
+	name="Armée du Midi"
+	location=420
+	regiment = {
+		name="1st Brest Infantry"
+		type=infantry
+		home=420
+	}
+	regiment = {
+		name="1st Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="1st Vannes Infantry"
+		type=infantry
+		home=422
+	}
+	regiment = {
+		name="1st La Roche Cavalry"
+		type=cavalry
+		home=437
+	}
+	regiment = {
+		name="1st Le Mans Artillery"
+		type=artillery
+		home=436
+	}
+	regiment = {
+		name="1st La Roche Artillery"
+		type=artillery
+		home=437
+	}
+}
+
+army = {
+	name="Armée des Flandres"
+	location=426
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="2nd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="3rd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="4th Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Paris Cavalry"
+		type=cavalry
+		home=425
+	}
+	regiment = {
+		name="2nd Paris Cavalry"
+		type=cavalry
+		home=425
+	}
+	regiment = {
+		name="1st Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="2nd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="5th Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="3rd Paris Cavalry"
+		type=cavalry
+		home=425
+	}
+	regiment = {
+		name="3rd Paris Artillery"
+		type=artillery
+		home=425
+	}
+}
+
+army = {
+	name="Armée du Jura"
+	location=389
+	regiment = {
+		name="1st Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="2nd Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="3rd Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="4th Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="1st Lille Cavalry"
+		type=cavalry
+		home=399
+	}
+	regiment = {
+		name="2nd Lille Cavalry"
+		type=cavalry
+		home=399
+	}
+	regiment = {
+		name="1st Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="2nd Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="3rd Lille Cavalry"
+		type=cavalry
+		home=399
+	}
+}
+
+army = {
+	name="Armée du Lyonnais"
+	location=412
+	regiment = {
+		name="1st Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="1st Tournai Infantry"
+		type=infantry
+		home=393
+	}
+	regiment = {
+		name="2nd Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="2nd Tournai Infantry"
+		type=infantry
+		home=393
+	}
+	regiment = {
+		name="1st Charleroi Cavalry"
+		type=cavalry
+		home=394
+	}
+	regiment = {
+		name="1st Tournai Cavalry"
+		type=cavalry
+		home=393
+	}
+	regiment = {
+		name="1st Charleroi Artillery"
+		type=artillery
+		home=394
+	}
+	regiment = {
+		name="2nd Charleroi Artillery"
+		type=artillery
+		home=394
+	}
+	regiment = {
+		name="2nd Charleroi Cavalry"
+		type=cavalry
+		home=394
+	}
+	regiment = {
+		name="3rd Charleroi Artillery"
+		type=artillery
+		home=394
+	}
+}
+
+army = {
+	name="Armée des Pyrénées"
+	location=390
+	regiment = {
+		name="1st Liège Infantry"
+		type=infantry
+		home=395
+	}
+	regiment = {
+		name="1st Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="2nd Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="3rd Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="4th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Spa Cavalry"
+		type=cavalry
+		home=396
+	}
+	regiment = {
+		name="1st Liège Artillery"
+		type=artillery
+		home=395
+	}
+	regiment = {
+		name="2nd Liège Artillery"
+		type=artillery
+		home=395
+	}
+	regiment = {
+		name="5th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Liège Cavalry"
+		type=cavalry
+		home=395
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=200
+	regiment = {
+		name="1st Hartford Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="1st Pittsburgh Infantry"
+		type=infantry
+		home=227
+	}
+	regiment = {
+		name="1st Saginaw Artillery"
+		type=artillery
+		home=175
+	}
+	regiment = {
+		name="2nd Paducah Artillery"
+		type=artillery
+		home=187
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=248
+	ship = {
+		name="1st Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st French Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd French Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bangor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dover Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Boston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hartford Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=200
+	regiment = {
+		name="1st Lewiston Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="1st Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="1st Burlington Infantry"
+		type=infantry
+		home=246
+	}
+	regiment = {
+		name="1st New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="1st Pittsfield Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="1st Paducah Artillery"
+		type=artillery
+		home=187
+	}
+	regiment = {
+		name="1st Hartford Artillery"
+		type=artillery
+		home=241
+	}
+	regiment = {
+		name="1st Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3048
+	ship = {
+		name="1st Lewiston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Long Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mobile Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dover Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Vallarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Boston Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=247
+	regiment = {
+		name="1st Boston Infantry"
+		type=infantry
+		home=243
+	}
+	regiment = {
+		name="2nd Lewiston Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="2nd New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="2nd Pittsfield Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="2nd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Dover Artillery"
+		type=artillery
+		home=222
+	}
+}
+
+army = {
+	name="10th Army"
+	location=155
+	regiment = {
+		name="1st New Bedford Infantry"
+		type=infantry
+		home=244
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2936
+	ship = {
+		name="2nd Long Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dover Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Providence Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Concord Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Concord Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newark Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Long Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Charleston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Augustine Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2935
+	ship = {
+		name="2nd Charleston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bangor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mobile Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bangor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Bedford Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=165
+	regiment = {
+		name="1st Bowling Green Infantry"
+		type=infantry
+		home=186
+	}
+	regiment = {
+		name="1st Newark Infantry"
+		type=infantry
+		home=229
+	}
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="3rd New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="3rd Lewiston Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="4th New York Artillery"
+		type=artillery
+		home=232
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=3032
+	ship = {
+		name="2nd Boston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Newark Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dover Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Washington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baltimore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hartford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Washington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Concord Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Long Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lewiston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Newark Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Baltimore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Baltimore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Providence Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st French Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dover Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bangor Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2224
+	regiment = {
+		name="1st Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="1st Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+	regiment = {
+		name="1st Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="1st Namur Infantry"
+		type=infantry
+		home=392
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2211
+	regiment = {
+		name="1st Rouen Infantry"
+		type=infantry
+		home=415
+	}
+	regiment = {
+		name="1st Santiago de Cuba Infantry"
+		type=infantry
+		home=2212
+	}
+	regiment = {
+		name="3rd Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Grenoble Infantry"
+		type=infantry
+		home=454
+	}
+	regiment = {
+		name="1st Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="2nd Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="1st Rouen Artillery"
+		type=artillery
+		home=415
+	}
+	regiment = {
+		name="2nd Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="1st Caen Artillery"
+		type=artillery
+		home=418
+	}
+	regiment = {
+		name="2nd Grenoble Infantry"
+		type=infantry
+		home=454
+	}
+	regiment = {
+		name="2nd Turin Artillery"
+		type=artillery
+		home=720
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2214
+	regiment = {
+		name="1st Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st La Vega Infantry"
+		type=infantry
+		home=2216
+	}
+	regiment = {
+		name="1st Grenoble Artillery"
+		type=artillery
+		home=454
+	}
+	regiment = {
+		name="1st Pau Artillery"
+		type=artillery
+		home=460
+	}
+	regiment = {
+		name="1st Rennes Infantry"
+		type=infantry
+		home=424
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2975
+	ship = {
+		name="1st Jagua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Martin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cap Haitien Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santiago de Cuba Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=3158
+	ship = {
+		name="2nd Carmen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jagua Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2999
+	ship = {
+		name="1st Nogales Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Camagüey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Santo Domingo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2975
+	ship = {
+		name="2nd Cap Haitien Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th La Vega Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2236
+	ship = {
+		name="1st Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Vega Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mazatlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Antigua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Turks And Caicos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Paraná Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Turks And Caicos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Au Prince Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=118
+	regiment = {
+		name="1st Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="2nd Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Truro Infantry"
+		type=infantry
+		home=72
+	}
+	regiment = {
+		name="1st Montauban Artillery"
+		type=artillery
+		home=456
+	}
+	regiment = {
+		name="1st Halifax Artillery"
+		type=artillery
+		home=71
+	}
+	regiment = {
+		name="2nd Halifax Artillery"
+		type=artillery
+		home=71
+	}
+	regiment = {
+		name="1st Truro Artillery"
+		type=artillery
+		home=72
+	}
+	regiment = {
+		name="1st Halifax Infantry"
+		type=infantry
+		home=71
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2628
+	regiment = {
+		name="1st Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="2nd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="3rd Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Chicoutimi Artillery"
+		type=artillery
+		home=61
+	}
+	regiment = {
+		name="1st Laon Artillery"
+		type=artillery
+		home=403
+	}
+	regiment = {
+		name="1st Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="2nd Truro Artillery"
+		type=artillery
+		home=72
+	}
+	regiment = {
+		name="2nd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2597
+	regiment = {
+		name="4th Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="2nd Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="1st Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="1st Trois-Rivières Artillery"
+		type=artillery
+		home=64
+	}
+	regiment = {
+		name="1st Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="1st Metz Artillery"
+		type=artillery
+		home=412
+	}
+	regiment = {
+		name="1st Montpellier Artillery"
+		type=artillery
+		home=461
+	}
+}
+
+army = {
+	name="6th Army"
+	location=63
+	regiment = {
+		name="1st Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="3rd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Laon Infantry"
+		type=infantry
+		home=403
+	}
+	regiment = {
+		name="2nd Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="1st Châteauroux Artillery"
+		type=artillery
+		home=446
+	}
+	regiment = {
+		name="3rd Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="4th Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="6th Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Fredericton Artillery"
+		type=artillery
+		home=68
+	}
+}
+
+army = {
+	name="14th Army"
+	location=75
+	regiment = {
+		name="5th Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Évreux Infantry"
+		type=infantry
+		home=416
+	}
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="2nd Pau Artillery"
+		type=artillery
+		home=460
+	}
+	regiment = {
+		name="1st Turin Artillery"
+		type=artillery
+		home=720
+	}
+	regiment = {
+		name="1st Dijon Artillery"
+		type=artillery
+		home=428
+	}
+	regiment = {
+		name="5th Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="3rd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="2nd Trois-Rivières Artillery"
+		type=artillery
+		home=64
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=2952
+	ship = {
+		name="1st Halifax Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Halifax Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2946
+	ship = {
+		name="2nd Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Quebec City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fredericton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Truro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Truro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Quebec City Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2593
+	regiment = {
+		name="2nd Montauban Artillery"
+		type=artillery
+		home=456
+	}
+	regiment = {
+		name="6th Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="3rd Halifax Artillery"
+		type=artillery
+		home=71
+	}
+	regiment = {
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
+	}
+	regiment = {
+		name="1st Cahors Artillery"
+		type=artillery
+		home=450
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2944
+	ship = {
+		name="1st Chicoutimi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=65
+	ship = {
+		name="1st Quebec City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Quebec City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ungava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Harrison Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ungava Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ungava Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Halifax Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Truro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort George Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fort George Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=70
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort George Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Hope Simpson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port Hope Simpson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Hope Simpson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fort George Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Rupert Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cape Breton Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fort George Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Halifax Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ungava Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2469
+	regiment = {
+		name="1st Eden Infantry"
+		type=infantry
+		home=2472
+	}
+	regiment = {
+		name="1st Sale Infantry"
+		type=infantry
+		home=2479
+	}
+	regiment = {
+		name="2nd Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="1st Broken Hill Cavalry"
+		type=cavalry
+		home=2475
+	}
+	regiment = {
+		name="2nd Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="2nd Le Mans Artillery"
+		type=artillery
+		home=436
+	}
+	regiment = {
+		name="1st Wagga Wagga Cavalry"
+		type=cavalry
+		home=2473
+	}
+	regiment = {
+		name="1st Sydney Artillery"
+		type=artillery
+		home=2468
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2872
+	ship = {
+		name="1st Palmerston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Geraldton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dampier Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2871
+	ship = {
+		name="1st Melbourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Palmerston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Perth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Palmerston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tennant Creek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Eden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tennant Creek Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2468
+	ship = {
+		name="1st Dampier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palmerston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dampier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kojonup Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tennant Creek Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Palmerston Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2864
+	ship = {
+		name="1st Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Geraldton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Lincoln Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Dampier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melbourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tennant Creek Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palmerston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Esperance Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palmerston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Palmerston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Esperance Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="9th Army"
+	location=192
+	regiment = {
+		name="1st Oklahoma City Infantry"
+		type=infantry
+		home=129
+	}
+	regiment = {
+		name="1st Calgary Artillery"
+		type=artillery
+		home=26
+	}
+	regiment = {
+		name="3rd Pau Infantry"
+		type=infantry
+		home=460
+	}
+}
+
+army = {
+	name="13th Army"
+	location=123
+	regiment = {
+		name="1st Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="1st Cody Infantry"
+		type=infantry
+		home=111
+	}
+	regiment = {
+		name="1st Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="2nd Rouen Artillery"
+		type=artillery
+		home=415
+	}
+	regiment = {
+		name="1st Macon Infantry"
+		type=infantry
+		home=431
+	}
+	regiment = {
+		name="1st Strasbourg Artillery"
+		type=artillery
+		home=409
+	}
+}
+
+army = {
+	name="4th Army"
+	location=101
+	regiment = {
+		name="1st Fort MacLeod Infantry"
+		type=infantry
+		home=28
+	}
+	regiment = {
+		name="1st Biloxi Infantry"
+		type=infantry
+		home=194
+	}
+	regiment = {
+		name="4th Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Jackson Artillery"
+		type=artillery
+		home=192
+	}
+	regiment = {
+		name="1st Hot Springs Artillery"
+		type=artillery
+		home=144
+	}
+	regiment = {
+		name="1st St Brieuc Artillery"
+		type=artillery
+		home=421
+	}
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+}
+
+army = {
+	name="1st Army"
+	location=29
+	regiment = {
+		name="1st Metz Infantry"
+		type=infantry
+		home=412
+	}
+	regiment = {
+		name="1st Laval Infantry"
+		type=infantry
+		home=435
+	}
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Montpellier Infantry"
+		type=infantry
+		home=461
+	}
+	regiment = {
+		name="2nd Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Ghent Artillery"
+		type=artillery
+		home=389
+	}
+	regiment = {
+		name="1st Moulins Artillery"
+		type=artillery
+		home=430
+	}
+	regiment = {
+		name="1st Vannes Artillery"
+		type=artillery
+		home=422
+	}
+	regiment = {
+		name="1st Chalons Artillery"
+		type=artillery
+		home=408
+	}
+	regiment = {
+		name="2nd Laon Artillery"
+		type=artillery
+		home=403
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2988
+	ship = {
+		name="4th Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st French Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lake Charles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd French Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lake Charles Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2964
+	ship = {
+		name="1st Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Antonio Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1
+	regiment = {
+		name="2nd Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Évreux Cavalry"
+		type=cavalry
+		home=416
+	}
+	regiment = {
+		name="1st Geneva Artillery"
+		type=artillery
+		home=607
+	}
+	regiment = {
+		name="1st Prince George Cavalry"
+		type=cavalry
+		home=19
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1
+	ship = {
+		name="1st Yakutat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Prince Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Unalakeet Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kenai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cordova Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kenai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cordova Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cordova Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kenai Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2298
+	ship = {
+		name="1st Huaraz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Huaraz Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3157
+	ship = {
+		name="1st Huaraz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Huaraz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Huaraz Frigate"
+		type=frigate
+	}
+}
+

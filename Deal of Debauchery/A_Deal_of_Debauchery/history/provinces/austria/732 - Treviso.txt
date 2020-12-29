@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=ITA
+add_core=VEN
+trade_goods = iron
+life_rating = 35
+terrain = hills
+fort = 1

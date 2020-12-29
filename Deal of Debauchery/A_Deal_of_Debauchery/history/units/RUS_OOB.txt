@@ -1,0 +1,756 @@
+#Sphere of Influence
+
+AFG = {
+	value = 164
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+ALB = {
+	value = -86
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+ARN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ASM = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+AVA = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+AZT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = -13
+	level = 2
+}
+CAM = {
+	value = 52
+	level = 2
+}
+CCT = {
+	value = 0
+	level = 2
+}
+CGS = {
+	value = 101
+	influence_value = 12
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CND = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CSH = {
+	value = 33
+	level = 2
+}
+CWU = {
+	value = 52
+	level = 2
+}
+CXI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+DEN = {
+	value = 9
+	level = 2
+}
+DLH = {
+	value = 46
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+EGY = {
+	value = 71
+	influence_value = 5
+	level = 3
+}
+ENG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+FRA = {
+	value = -10
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = -56
+	level = 2
+}
+HAN = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUA = {
+	value = -17
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+JLV = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KBO = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+KCX = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+KRW = {
+	value = 140
+	influence_value = 22
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MLI = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+MRI = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+NET = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+NOR = {
+	value = -72
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+PEG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PTT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 37
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+SIA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SWA = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+SWE = {
+	value = 188
+	military_access = yes
+	influence_value = 84
+	level = 5
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 87
+	influence_value = 9
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = -22
+	level = 2
+}
+X01 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X02 = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+X06 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Prokopiy Rumyantsev"
+	date="1791.9.6"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Iosif Rebrov"
+	date="1805.1.27"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Yefim Semenov"
+	date="1809.7.19"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Andrei Yalichev"
+	date="1815.11.14"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=2686
+	regiment = {
+		name="1st Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="1st Ufa Infantry"
+		type=infantry
+		home=1042
+	}
+	regiment = {
+		name="1st Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="1st Tyumen Artillery"
+		type=artillery
+		home=1061
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Pskov Infantry"
+		type=infantry
+		home=1006
+	}
+}
+
+navy = {
+	name="Blue Squadron"
+	location=1083
+	ship = {
+		name="1st Simferopol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Simferopol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cherson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Russian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melitopol Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Odessa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cherson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Russian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kerch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Simferopol Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ekaterinodar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Helsinki Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Russian Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Army of Poland"
+	location=1488
+	regiment = {
+		name="1st Novgorod Infantry"
+		type=infantry
+		home=1003
+	}
+	regiment = {
+		name="1st Viipuri Infantry"
+		type=infantry
+		home=339
+	}
+	regiment = {
+		name="1st Kostomushka Infantry"
+		type=infantry
+		home=984
+	}
+	regiment = {
+		name="2nd Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="1st Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+	regiment = {
+		name="2nd Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+	regiment = {
+		name="3rd Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="1st Ulusamudan Artillery"
+		type=artillery
+		home=1085
+	}
+}
+
+army = {
+	name="Army of Finland"
+	location=1502
+	regiment = {
+		name="1st Magdagachi Infantry"
+		type=infantry
+		home=2697
+	}
+	regiment = {
+		name="1st Tangshan Infantry"
+		type=infantry
+		home=1616
+	}
+	regiment = {
+		name="2nd Magdagachi Infantry"
+		type=infantry
+		home=2697
+	}
+	regiment = {
+		name="1st Chita Artillery"
+		type=artillery
+		home=1078
+	}
+	regiment = {
+		name="3rd Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="1st Nyurba Artillery"
+		type=artillery
+		home=2650
+	}
+	regiment = {
+		name="2nd Boli Artillery"
+		type=artillery
+		home=1083
+	}
+}
+
+army = {
+	name="Army of Siberia"
+	location=1190
+	regiment = {
+		name="1st Cherkassy Infantry"
+		type=infantry
+		home=961
+	}
+	regiment = {
+		name="1st Cherson Infantry"
+		type=infantry
+		home=965
+	}
+	regiment = {
+		name="1st Nikolaev Infantry"
+		type=infantry
+		home=970
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Voronets Artillery"
+		type=artillery
+		home=1019
+	}
+	regiment = {
+		name="1st Kiev Artillery"
+		type=artillery
+		home=958
+	}
+	regiment = {
+		name="3rd Voronets Artillery"
+		type=artillery
+		home=1019
+	}
+}
+
+army = {
+	name="Russian Imperial Army"
+	location=1493
+	regiment = {
+		name="2nd Novgorod Infantry"
+		type=infantry
+		home=1003
+	}
+	regiment = {
+		name="1st Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="2nd Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="1st Tangshan Artillery"
+		type=artillery
+		home=1616
+	}
+	regiment = {
+		name="1st Ryazan Artillery"
+		type=artillery
+		home=1012
+	}
+	regiment = {
+		name="1st Petrozavorsk Artillery"
+		type=artillery
+		home=995
+	}
+	regiment = {
+		name="1st Helsinki Artillery"
+		type=artillery
+		home=343
+	}
+}
+
+army = {
+	name="Army of Ukraine"
+	location=2607
+	regiment = {
+		name="1st Tula Infantry"
+		type=infantry
+		home=1011
+	}
+	regiment = {
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="1st Borovichi Infantry"
+		type=infantry
+		home=1005
+	}
+	regiment = {
+		name="1st Boli Artillery"
+		type=artillery
+		home=1083
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="2nd Voronets Artillery"
+		type=artillery
+		home=1019
+	}
+}
+
+army = {
+	name="Army of the Ural"
+	location=1082
+	regiment = {
+		name="1st Uralsk Infantry"
+		type=infantry
+		home=2610
+	}
+	regiment = {
+		name="1st Samara Infantry"
+		type=infantry
+		home=1034
+	}
+	regiment = {
+		name="1st Ekaterinburg Infantry"
+		type=infantry
+		home=1058
+	}
+	regiment = {
+		name="1st Nerchinsk Artillery"
+		type=artillery
+		home=1079
+	}
+	regiment = {
+		name="4th Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="2nd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Krivoy Rog Infantry"
+		type=infantry
+		home=971
+	}
+}
+

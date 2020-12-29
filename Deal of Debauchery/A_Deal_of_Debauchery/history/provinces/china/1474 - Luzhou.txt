@@ -1,0 +1,8 @@
+owner=QIC
+controller=CGS
+add_core=CHI
+add_core=MNG
+add_core=QIC
+trade_goods = tea
+life_rating = 32
+terrain = plains

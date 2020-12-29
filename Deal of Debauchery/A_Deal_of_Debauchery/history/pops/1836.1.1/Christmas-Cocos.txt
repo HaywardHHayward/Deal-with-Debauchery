@@ -1,0 +1,60 @@
+2244 = {
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 12
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 9
+	}
+
+}

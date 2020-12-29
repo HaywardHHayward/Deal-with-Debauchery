@@ -1,0 +1,12 @@
+owner=SWI
+controller=SWI
+add_core=SWI
+trade_goods = cattle
+life_rating = 40
+terrain = mountain
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

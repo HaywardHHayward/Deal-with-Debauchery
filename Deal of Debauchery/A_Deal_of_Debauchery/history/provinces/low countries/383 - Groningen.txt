@@ -1,0 +1,9 @@
+owner=HAN
+controller=HAN
+add_core=FRI
+add_core=HAN
+add_core=NET
+trade_goods = grain
+life_rating = 35
+terrain = farmlands
+naval_base = 1

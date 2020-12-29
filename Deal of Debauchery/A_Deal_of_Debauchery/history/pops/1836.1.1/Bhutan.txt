@@ -1,0 +1,149 @@
+1329 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 9745
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 981
+	}
+
+	soldiers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 1008
+	}
+
+	clergymen=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 13
+	}
+
+	officers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 5718
+	}
+
+}

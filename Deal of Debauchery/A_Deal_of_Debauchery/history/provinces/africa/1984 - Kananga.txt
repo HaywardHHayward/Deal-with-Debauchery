@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=KSJ
+add_core=YKA
+trade_goods = fruit
+life_rating = 15
+terrain = jungle
+colonial=2

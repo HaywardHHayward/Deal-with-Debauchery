@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=PEQ
+add_core=QUE
+add_core=WCR
+trade_goods = cattle
+life_rating = 35
+terrain = forest

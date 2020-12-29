@@ -1,0 +1,214 @@
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11563
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 512
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 10959
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 735
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 154
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 14311
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 887
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 317
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 178
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 14239
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 883
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 947
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 47
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 199
+	}
+
+}
