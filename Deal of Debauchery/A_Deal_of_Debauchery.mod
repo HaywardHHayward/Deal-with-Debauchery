@@ -1,4 +1,4 @@
-name = "Converted - A_Deal_of_Debauchery"
+name = "A Deal of Debauchery"
 path = "mod/A_Deal_of_Debauchery"
 user_dir = "A_Deal_of_Debauchery"
 replace = "history/provinces"
