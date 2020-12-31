@@ -1,11 +1,14 @@
 capital = 1745
 primary_culture = misri
 culture = zzz_religion_sunni
+culture = mashriqi
+culture = bedouin
 religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.173348
+civilized = yes
 
 
 # Social Reforms
