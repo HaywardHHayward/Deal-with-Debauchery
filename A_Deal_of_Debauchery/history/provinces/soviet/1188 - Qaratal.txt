@@ -7,4 +7,3 @@ add_core=ZUN
 trade_goods = fish
 life_rating = 25
 terrain = steppe
-colonial=2

@@ -5,4 +5,3 @@ add_core=RUS
 trade_goods = coal
 life_rating = 35
 terrain = steppe
-colonial=2

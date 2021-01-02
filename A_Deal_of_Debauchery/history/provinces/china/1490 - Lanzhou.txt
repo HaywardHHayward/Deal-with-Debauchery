@@ -5,3 +5,4 @@ add_core=CSH
 trade_goods = coal
 life_rating = 32
 terrain = woods
+colonial=2

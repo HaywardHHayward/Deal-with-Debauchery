@@ -6,3 +6,5 @@ add_core=MGL
 trade_goods = cotton
 life_rating = 32
 terrain = desert
+colonial=2
+
