@@ -1,5 +1,5 @@
-owner=RUS
-controller=RUS
+owner=FRA
+controller=FRA
 add_core=YUE
 trade_goods = tea
 life_rating = 32
