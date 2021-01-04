@@ -1,0 +1,31 @@
+political_decisions = {
+	DD_unify_french_iberia = {
+		potential = {
+			tag = FRA
+			exists = ARN
+			exists = X01
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			ARN = { vassal_of = THIS }
+			X01 = { vassal_of = THIS }
+		}
+		effect = {
+			X01 = {
+				add_accepted_culture = catalan
+				inherit = ARN
+				any_owned = {
+					limit = {
+						is_core = ARN
+						NOT = { is_core = X01 }
+					}
+					add_core = X01
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
