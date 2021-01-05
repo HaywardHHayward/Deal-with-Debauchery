@@ -11005,7 +11005,7 @@
 	farmers=
 	{
 		culture = aromanian
-		religion = 
+		religion = animist
 		size= 775
 	}
 
