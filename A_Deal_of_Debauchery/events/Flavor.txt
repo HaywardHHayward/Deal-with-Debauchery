@@ -1,0 +1,21 @@
+country_event = {
+	id = 1
+	title = "dd_italya_title"
+	desc = "dd_italya_desc"
+	
+	trigger = {
+		OR = {
+			tag = GER
+			tag = EGY
+		}
+		NOT = { year = 1822 }
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+	name = "Only time will tell."
+	}
+}
