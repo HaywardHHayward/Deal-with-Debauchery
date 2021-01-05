@@ -1,21 +1,22 @@
 country_event = {
 	id = 1
-	title = "dd_italya_title"
-	desc = "dd_italya_desc"
+	title = "EVTNAME1"
+	desc = "EVTDESC1"
 	
 	trigger = {
 		OR = {
 			tag = GER
 			tag = EGY
 		}
-		NOT = { year = 1822 }
+		NOT = { has_global_flag = italya }
 	}
 	
 	mean_time_to_happen = {
-		months = 6
+		months = 0.0001
 	}
 	
 	option = {
-	name = "Only time will tell."
+		name = "Only time will tell."
+		set_global_flag = italya
 	}
 }

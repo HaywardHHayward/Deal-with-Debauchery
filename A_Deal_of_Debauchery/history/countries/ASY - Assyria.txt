@@ -1,5 +1,5 @@
 capital = 927
-primary_culture = syriac
+primary_culture = assyrian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

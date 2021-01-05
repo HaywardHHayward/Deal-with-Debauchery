@@ -43,7 +43,7 @@ add_to_sphere
 take_from_sphere 
 status_quo 
 gunboat 
-chinese_unification_cb
+DD_chinese_unification_cb
 conquest 
 civil_war 
 acquire_core_state 
@@ -1728,7 +1728,7 @@ great_war_penalty_cb = {
 
 
 #####################################
-Modded
+#Modded
 #####################################
 #Unification Annex
 DD_chinese_unification_cb = {
@@ -1758,8 +1758,6 @@ DD_chinese_unification_cb = {
 			OR = {
 				primary_culture = bai
 				primary_culture = beifaren
-				primary_culture = nanfaren
-				primary_culture = dogren
 				primary_culture = hakka
 				primary_culture = heiren
 				primary_culture = manchu
@@ -1775,8 +1773,6 @@ DD_chinese_unification_cb = {
 		OR = {
 			primary_culture = bai
 			primary_culture = beifaren
-			primary_culture = nanfaren
-			primary_culture = dogren
 			primary_culture = hakka
 			primary_culture = heiren
 			primary_culture = manchu

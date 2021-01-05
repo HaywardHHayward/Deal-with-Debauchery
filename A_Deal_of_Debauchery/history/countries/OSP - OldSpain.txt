@@ -1,7 +1,7 @@
 capital = 487
 primary_culture = oldspain
-culture = zzz_religion_pagan
-religion = pagan
+culture = zzz_religion_mayan
+religion = mayan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

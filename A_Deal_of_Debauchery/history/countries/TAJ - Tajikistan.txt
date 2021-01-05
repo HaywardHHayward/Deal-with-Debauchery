@@ -1,7 +1,7 @@
 capital = 1207
 primary_culture = tajik
-culture = zzz_religion_shia
-religion = shia
+culture = tajik
+religion = zzz_religion_shiite
 government = democracy
 plurality = 0
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 primary_culture = english
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_shamanism
+religion = shamanism
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
